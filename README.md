@@ -1,1 +1,7 @@
-# nazarsanji_television
+[
+  {
+    "عکس": "",
+    "عنوان": "شبکه یک",
+    "لینک": "http://saleh-jankhani.ga"
+  }
+]
